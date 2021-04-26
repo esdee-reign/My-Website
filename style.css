@@ -42,11 +42,12 @@
     }
 
     #des-dev-bg{
-        position: fixed;
+        position: relative;
+        float: right;
+        top: -280px;
         width: 360px;
         height: 520px;
-        left: 1128px;
-        top: 140px;
+        margin-right: 32px;
     }
 
     .green-highlight{
