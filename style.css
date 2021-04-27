@@ -36,9 +36,14 @@
 
     #resume-btn{
         border: solid 2px #48BB78;
+        color: #f1f1f1;
         margin-left: 20px;
         padding: 10px 25px;
         border-radius: 4px;
+    }
+
+    #resume-btn:hover{
+        color: #48BB78;
     }
 
     #des-dev-bg{
