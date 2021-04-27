@@ -116,7 +116,9 @@
     }
  
     #dp{
-        border-radius: 16px; width: 264px; height: 370px; float: right; display: relative;
+        border-radius: 16px; 
+        width: 264px; height: 370px; 
+        float: right; 
         margin-right: 200px;
         margin-top: -64px;
     }
