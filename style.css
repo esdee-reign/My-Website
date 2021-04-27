@@ -20,20 +20,23 @@
     }
     li {
         float: right;
+        
     }
     
     li a {
         display: block;
         color: #f1f1f1;
         text-align: center;
-        padding: 14px 16px;
+        padding: 8px 16px;
         text-decoration: none;
         font: 16px;
         font-family: 'Courier New', Courier, monospace;
         font-weight: 600;
         margin-top: 44px; 
     }  
-
+    .links:hover{
+        box-shadow: 2px 2px #48BB78;
+    }
     #resume-btn{
         border: solid 2px #48BB78;
         color: #f1f1f1;
