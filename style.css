@@ -114,6 +114,12 @@
         line-height: 200%;
         letter-spacing: 2px;
     }
+ 
+    #dp{
+        border-radius: 16px; width: 264px; height: 370px; float: right; display: relative;
+        margin-right: 200px;
+        margin-top: -64px;
+    }
 
     #skills-container{
         color: #DADBDC;
